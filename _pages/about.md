@@ -17,7 +17,7 @@ My **research interests** are in developing robust and efficient Bayesian infere
 
 News
 ======
-- **May 26** <span style="color:#98BF64"> <u>Two preprints submitted</u></span> — one to IEEE Transactions on Signal Processing and one to Statistics and Computing. See below!
+- **May 26** <span style="color:#98BF64"> <u>Two preprints submitted</u></span> — one to IEEE Transactions on Signal Processing and one to Statistics and Computing.
 
 - **Dec. 25** <span style="color:#98BF64"> <u>Passed my viva with minor corrections</u></span> for my PhD in Statistics at the University of Edinburgh!
 
