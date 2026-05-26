@@ -18,9 +18,11 @@ Take a look at my [CV](cv.pdf).
 
 News
 ======
+- **May 26** <span style="color:#98BF64"> <u>Two preprints submitted</u></span> — one to IEEE Transactions on Signal Processing and one to Statistics and Computing. See below!
+
 - **Dec. 25** <span style="color:#98BF64"> <u>Passed my viva with minor corrections</u></span> for my PhD in Statistics at the University of Edinburgh!
 
-- **May 26** <span style="color:#98BF64"> <u>Two preprints submitted</u></span> — one to IEEE Transactions on Signal Processing and one to Statistics and Computing. See below!
+- **2024** <span style="color:#98BF64"> <u>Poster presentation</u></span> at [SMC 2024](https://smc2024.iclr.cc), ICMS Edinburgh.
 
 - **Nov. 23** Thrilled to accept a <span style="color:#98BF64"> <u>poster award</u></span>  at [Bayes@CIRM](https://bayesatcirm.github.io/2023/#important_dates) 2023!
 
@@ -36,7 +38,9 @@ News
 
 - **Feb. 23** <span style="color:#98BF64"> <u> Paper accepted</u> </span> at [IEEE ICASSP 2023](https://2023.ieeeicassp.org)!
 
-- **May 22** <span style="color:#98BF64"> <u> Oral presentation</u> </span> at [IEEE ICASSP 2022](https://2022.ieeeicassp.org) in Singapore. 
+- **May 22** <span style="color:#98BF64"> <u> Oral presentation</u> </span> at [IEEE ICASSP 2022](https://2022.ieeeicassp.org) in Singapore.
+
+- **2022** Attended Greek Stochastics μ' in Corfu, Greece.
 
 - **Jan. 22** <span style="color:#98BF64"> <u> Paper accepted</u> </span> at [IEEE ICASSP 2022](https://2022.ieeeicassp.org)!
 
