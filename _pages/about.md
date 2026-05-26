@@ -14,7 +14,6 @@ I recently completed my PhD in Statistics at the School of Mathematics, [Univers
 
 My **research interests** are in developing robust and efficient Bayesian inference algorithms for complex dynamical systems and signal processing, with a focus on Bayesian filtering and smoothing of state-space models.
 
-Take a look at my [CV](cv.pdf).
 
 News
 ======
