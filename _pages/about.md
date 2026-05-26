@@ -14,11 +14,11 @@ I recently completed my PhD in Statistics at the School of Mathematics, [Univers
 
 My **research interests** are in developing robust and efficient Bayesian inference algorithms for complex dynamical systems and signal processing, with a focus on Bayesian filtering and smoothing of state-space models.
 
-<!-- Take a look at my [resume](resume.pdf).  -->
+Take a look at my [CV](cv.pdf).
 
 News
 ======
-- **Summer 26** <span style="color:#98BF64"> <u>Passed my viva and graduating</u></span> with a PhD in Statistics from the University of Edinburgh!
+- **Dec. 25** <span style="color:#98BF64"> <u>Passed my viva with minor corrections</u></span> for my PhD in Statistics at the University of Edinburgh!
 
 - **May 26** <span style="color:#98BF64"> <u>Two preprints submitted</u></span> — one to IEEE Transactions on Signal Processing and one to Statistics and Computing. See below!
 
